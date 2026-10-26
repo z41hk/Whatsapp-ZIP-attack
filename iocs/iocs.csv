@@ -1,0 +1,14 @@
+case,type,value,note
+01,filename,Reconciliation_Working_Papers_20261026.zip,WhatsApp ZIP
+01,filename,I n v 20261026-7756398562.exe,fake invoice EXE
+01,filename,CrashHunter_PC3.dll,sideloaded DLL
+01,path,%LOCALAPPDATA%\B5CBED0F2CA00000\,relaunch location
+01,cmdline,--evhs=<PID>,relaunch argument
+02,filename,PDF_2K1RQW_20261023110727.zip,WhatsApp ZIP
+02,filename,PDF_2K1RQW_20261023110727.vhd,virtual disk
+02,filename,PDF_2K1RQW_20261023110727.exe,fake PDF EXE
+02,filename,CRclIENt.DLL,sideloaded DLL
+02,url,hxxps://www[.]fafadownload[.]com/beacon[.]php,C2 beacon
+02,url,hxxps://ccc[.]fafadownload[.]com/plapdla[.]dat,next stage
+02,path,C:\ProgramData\Office89bd\,drop folder (w.zip / UEMSAgent.msi)
+02,sha256,8DC7D72C69920332E171FE87057CCC7C8CC23CECEC850C36EA56F94F1E189214,sample per ANY.RUN report
