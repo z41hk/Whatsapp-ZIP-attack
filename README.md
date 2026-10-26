@@ -47,7 +47,6 @@ Also on this page: [Common pattern](#common-pattern) | [Detection ideas](#detect
 | Path | `%LOCALAPPDATA%\B5CBED0F2CA00000\` |
 | Command line | `--evhs=<PID>` |
 
-LinkedIn post: [posts/case-01-linkedin-post.md](posts/case-01-linkedin-post.md)
 
 [Back to top](#whatsapp-zip-malware-analysis)
 
@@ -108,7 +107,7 @@ The report does not show which server the agent registered to, so remote control
 
 Full sandbox report: [ANY.RUN](https://any.run/report/8dc7d72c69920332e171fe87057ccc7c8cc23cecec850c36ea56f94f1e189214/cbf53acf-8692-4605-a6aa-ad0603e7c60b)
 
-LinkedIn post: [posts/case-02-linkedin-post.md](posts/case-02-linkedin-post.md)
+LinkedIn post: [[posts/case-02-linkedin-post.md](posts/case-02-linkedin-post.md)](https://www.linkedin.com/posts/khidtisak-prak-chum_cybersecurity-malware-dllsideloading-ugcPost-7520324305474461696-QUKc/)
 
 [Back to top](#whatsapp-zip-malware-analysis)
 
